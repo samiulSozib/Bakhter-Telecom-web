@@ -6,8 +6,8 @@ export default function SignIn() {
   return (
     <>
       <PageMeta
-        title="Tak Telecom"
-        description="Tak Telecom"
+        title="Bakhtar Telecom"
+        description="Bakhtar Telecom"
       />
       <AuthLayout>
         <SignInForm />

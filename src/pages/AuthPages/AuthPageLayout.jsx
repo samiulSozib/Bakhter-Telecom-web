@@ -19,13 +19,13 @@ export default function AuthLayout({
                 <img
                   width={231}
                   height={48}
-                  src="/images/img/tak_telecom.jpeg"
+                  src="/images/img/bakhter_telecom.jpeg"
                   alt="Logo"
                   className="rounded-md w-[250px] h-[250px]"
                 />
               </Link>
               <p className="text-center text-gray-400 dark:text-white/60">
-                It's Tak Telecom
+                It's Bakhter Telecom
               </p>
             </div>
           </div>

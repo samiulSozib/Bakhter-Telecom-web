@@ -9,7 +9,7 @@ export default function ProductsAndPackages() {
   return (
     <>
       <PageMeta
-        title="Tak Telecom"
+        title="Bakhtar Telecom"
         description=""
       />
       <div className="grid grid-cols-12 gap-4 md:gap-6">

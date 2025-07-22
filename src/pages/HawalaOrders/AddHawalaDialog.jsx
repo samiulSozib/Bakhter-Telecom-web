@@ -112,7 +112,7 @@ const AddHawalaDialog = ({ showDialog, onClose, onSubmit }) => {
 
   return (
     <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50 z-50">
-      <div className="bg-gray-200 p-6 rounded-lg shadow-lg w-full sm:w-[90%] md:w-[80%] lg:w-[70%] xl:w-[60%] max-h-[90vh] overflow-y-auto flex flex-col text-left">
+      <div className="bg-gray-300 p-6 rounded-lg shadow-lg w-full sm:w-[90%] md:w-[80%] lg:w-[70%] xl:w-[60%] max-h-[90vh] overflow-y-auto flex flex-col text-left">
         <div className="flex flex-row items-center justify-between gap-2 mb-2">
           <h2 className="text-xl font-semibold">{t("ADD_HAWALA_ORDER")}</h2>
           <button

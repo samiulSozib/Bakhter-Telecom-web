@@ -3,7 +3,7 @@ import { useTranslation } from "react-i18next";
 export default function FirstCard() {
   const {t}=useTranslation()
   return (
-    <div className="h-[270px] rounded-2xl border border-gray-200 bg-[#C8FACD] dark:border-gray-800 dark:bg-white/[0.03] p-4 md:p-6">
+    <div className="h-[270px] rounded-2xl border border-gray-200 bg-[#97b39a] dark:border-gray-800 dark:bg-white/[0.03] p-4 md:p-6">
       <div className="flex flex-col sm:flex-row items-center">
         
         {/* Text Section */}

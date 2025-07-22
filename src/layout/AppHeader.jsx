@@ -91,7 +91,7 @@ const AppHeader = () => {
           <Link to="/" className="lg:hidden">
             <img
               className="dark:hidden w-10 h-10 rounded-md"
-              src="./images/img/tak_telecom.jpeg"
+              src="./images/img/bakhter_telecom.jpeg"
               alt="Logo"
             />
             <img

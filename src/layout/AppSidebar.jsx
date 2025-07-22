@@ -318,14 +318,14 @@ const AppSidebar = () => {
             <>
               <img
                 className="dark:hidden rounded-xl"
-                src="/images/img/tak_telecom.jpeg"
+                src="/images/img/bakhter_telecom.jpeg"
                 alt="Logo"
                 width={60}
                 height={40}
               />
               <img
                 className="hidden dark:block rounded-xl"
-                src="/images/img/tak_telecom.jpeg"
+                src="/images/img/bakhter_telecom.jpeg"
                 alt="Logo"
                 width={60}
                 height={40}
